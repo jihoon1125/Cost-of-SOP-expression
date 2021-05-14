@@ -13,8 +13,13 @@
 ## Verification & results
 * Essential prime implicant들을 지운 Prime Implicant table의 값들을 출력하여 제대로 논리식이 최소화 되었는지 확인해볼 수 있다. 
 ![image](https://user-images.githubusercontent.com/67624104/118232773-03804c80-b4cc-11eb-8d75-f4eb9d69424f.png)
+
+
+
+
+
 * 다음은 결과화면의 예시이다
-![image](https://user-images.githubusercontent.com/67624104/118232844-1dba2a80-b4cc-11eb-9abf-30f4d274fb8f.png)
+* ![image](https://user-images.githubusercontent.com/67624104/118232844-1dba2a80-b4cc-11eb-9abf-30f4d274fb8f.png)
 
 
 
